@@ -1,0 +1,32 @@
+--- 
+title: "Handbook"
+subtitle: "2023"
+date: "2023-04-19"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: antagomir/guidelines
+description: "Material"
+output:
+  bookdown::gitbook
+  bookdown::pdf_document2
+always_allow_html: true  
+classoption: oneside
+geometry:
+  - top=30mm
+  - left=15mm
+---
+
+
+
+# Overview
+
+<a href="https://bioconductor.org"><img src="https://github.com/Bioconductor/BiocStickers/raw/master/Bioconductor/Bioconductor-serial.gif" width="200" alt="Bioconductor Sticker" align="right" style="margin: 0 1em 0 1em" /></a>
+
+
+## Contents and learning goals
+
+This is a **project handbook**
+
