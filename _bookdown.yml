@@ -1,5 +1,5 @@
 book_filename: handbook
-pagetitle: "Handbook"
+pagetitle: "Guideline manual"
 delete_merged_file: true
 new_session: true
 language:
@@ -7,6 +7,9 @@ language:
     chapter_name: ""
 output_dir: docs
 rmd_files:
-  - index.Rmd  
-  - 01-program.Rmd
-  - 01.1-codeofconduct.Rmd
+  - index.Rmd
+  - repositories.Rmd
+  - git.Rmd      
+  - csc.Rmd  
+  - codeofconduct.Rmd
+  

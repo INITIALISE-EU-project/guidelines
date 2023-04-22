@@ -1,7 +1,6 @@
-Package: Course
-Title: Microbiome data science course
+Package: Project
+Title: INITIALISE EU
 Version: 0.1
-Date: 2023-04-19
 Authors@R: 
     c(person("Leo", "Lahti", email = "leo.lahti@utu.fi",
              role = c("aut", "cre"),             
@@ -11,8 +10,8 @@ Description:
     This is a handbook.
 License: CC BY 3.0 US
 Encoding: UTF-8
-URL: https://github.com/antagomir/guidelines
-BugReports: https://github.com/antagomir/guidelines/issues
+URL: https://github.com/Initialise-EU-project/guidelines
+BugReports: https://github.com/Initialise-EU-project/guidelines/issues
 LazyData: true
 biocViews:
     Book

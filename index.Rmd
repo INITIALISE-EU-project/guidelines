@@ -1,18 +1,18 @@
 --- 
-title: "Handbook"
-subtitle: "2023"
+title: "Initialise EU"
+subtitle: "Project guidelines"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: antagomir/guidelines
+github-repo: Initialise-EU-project/guidelines
 description: "Material"
 output:
   bookdown::gitbook
   bookdown::pdf_document2
-always_allow_html: true  
+always_allow_html: true
 classoption: oneside
 geometry:
   - top=30mm
@@ -21,12 +21,17 @@ geometry:
 
 
 
-# Overview
+# Initialise EU project guidelines {-}
 
-<a href="https://bioconductor.org"><img src="`r rebook::BiocSticker('animated')`" width="200" alt="Bioconductor Sticker" align="right" style="margin: 0 1em 0 1em" /></a>
+This manual summarizes recommended practices for project organization.
+
+![](img/logo.jpeg)
 
 
-## Contents and learning goals
 
-This is a **project handbook**
+
+
+
+
+
 
