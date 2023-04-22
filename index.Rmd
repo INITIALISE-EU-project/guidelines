@@ -32,10 +32,11 @@ This manual summarizes recommended practices for project organization.
 
 - [Wiki](https://github.com/INITIALISE-EU-project/guidelines/wiki)
 
+- [Project template](https://github.com/INITIALISE-EU-project/template)
 
-See
-[README](https://github.com/INITIALISE-EU-project/guidelines/blob/main/README.md)
-for instructions to edit this website.
+
+See [README](https://github.com/INITIALISE-EU-project/guidelines/blob/main/README.md) for instructions to edit this website.
+
 
 
 
