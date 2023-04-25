@@ -25,7 +25,7 @@ geometry:
 
 This manual summarizes recommended practices for project organization.
 
-![](https://github.com/INITIALISE-EU-project/guidelines/blob/main/img/logo.jpeg?raw=true)
+<!--![](img/logo.jpeg)-->
 
 
 - [Guidelines (this page)](https://initialise-eu-project.github.io/guidelines/)
