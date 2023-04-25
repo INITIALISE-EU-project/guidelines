@@ -4,8 +4,8 @@ practices
 directory-structure
 logic
 articles-on-data-science-project-git-repo-organization
+resources
 github
-working-with-git
-basic-workflow
 csc-resources
 code-of-conduct
+csc

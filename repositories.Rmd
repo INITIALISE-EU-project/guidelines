@@ -2,7 +2,8 @@
 
 This is a generic project template including good practices for code organization.  The aim is to enable painless internal reproduction of a project and to ease communication about a project's structure.
 
-You can copy the [template repository](https://github.com/INITIALISE-EU-project/template).
+You can copy the [template repository](https://github.com/INITIALISE-EU-project/template) by
+pressing the "Use this template" button.
 
 **Most of the features here are recommendations, and can be varied on as needed.**
 

@@ -8,8 +8,7 @@ language:
 output_dir: docs
 rmd_files:
   - index.Rmd
+  - resources.Rmd  
   - repositories.Rmd
-  - git.Rmd      
-  - csc.Rmd  
   - codeofconduct.Rmd
   

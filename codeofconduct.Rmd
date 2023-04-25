@@ -8,5 +8,6 @@ Our community values an open approach to science that promotes:
  - a kind and welcoming environment
  - community contributions
 
-[Link to the full code of conduct](https://bioconductor.github.io/bioc_coc_multilingual/)
+We support the [Bioconductor code of conduct](https://bioconductor.github.io/bioc_coc_multilingual/)
+
 
