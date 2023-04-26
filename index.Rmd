@@ -23,7 +23,6 @@ geometry:
 
 # Initialise EU project: guidelines {-}
 
-This manual summarizes recommended practices for project organization.
 
 <!--![](img/logo.jpeg)-->
 
