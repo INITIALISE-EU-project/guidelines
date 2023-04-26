@@ -2,13 +2,23 @@
 
 <img src="img/logo.jpeg" alt="Logo" width="50%"/>
 
+The [website](https://initialise-eu-project.github.io/guidelines/) is automatically rendered. Here you find instructions on how to edit the website. 
 
-## Automated build
+**Troubleshooting:** Contact Leo Lahti in case of problems.
 
-Edit the Rmd files for content, and commit. The website should render
-automatically. You can view the progress at [Github Actions](https://github.com/INITIALISE-EU-project/guidelines/actions).
 
 ## Rendering the book
+
+### Option 1: github web browser
+
+Edit the files directly through web browser in [Github](https://github.com/INITIALISE-EU-project/guidelines).
+
+The [website](https://initialise-eu-project.github.io/guidelines/) is automatically rendered from the Rmd files (files ending with `.Rmd`). The chapters order is defined in the file `_bookdown.yml`. Navigate to the file that you want to edit, click on the pen figure around the top right corner of the page (next to the "Raw" and "Blame" buttons), then edit the file and commit the changes (the Commit button at the bottom of the page).
+
+An external server detects the update and renders the website. If the build is successful, it will trigger a new process in [Github Actions](https://github.com/INITIALISE-EU-project/guidelines/actions). It usually takes 1-2 minutes that the changes appear on the [website](https://initialise-eu-project.github.io/guidelines). The changes will not become visible if the build fails. 
+
+
+### Option 2: command line
 
 You can edit this website via [Github](https://github.com/INITIALISE-EU-project/guidelines).
 
