@@ -26,6 +26,8 @@ geometry:
 
 <!--![](img/logo.jpeg)-->
 
+This manual summarizes recommended practices for project organization and key resources.
+
 
 - [Guidelines (this page)](https://initialise-eu-project.github.io/guidelines/)
 
