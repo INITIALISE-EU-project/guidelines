@@ -161,7 +161,7 @@ jobs:
           git config --global --add safe.directory /__w/guidelines/guidelines
           git fetch --all
           commit=$(git --work-tree=../ rev-parse --verify --short HEAD)
-          git worktree add --track -B gh-pages docs origin/gh-pages
+          git worktree add --track -B main docs origin/main
       - name: Bookdown
         if: runner.os == 'Linux'
         run: |
@@ -179,7 +179,7 @@ jobs:
           cd docs
           git add -A .
           git commit --allow-empty -m "Build book @$(git rev-parse --short HEAD)"
-          git push --force origin HEAD:gh-pages
+          git push --force origin HEAD:main
           cd ..
       - name: Upload check results
         if: runner.os == 'Linux' && failure()
