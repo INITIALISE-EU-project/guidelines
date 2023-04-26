@@ -8,7 +8,7 @@ bibliography: [packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: Initialise-EU-project/guidelines
-description: "Material"
+description: "Materials"
 output:
   bookdown::gitbook
   bookdown::pdf_document2
