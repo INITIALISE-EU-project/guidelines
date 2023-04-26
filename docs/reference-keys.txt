@@ -1,0 +1,10 @@
+resources
+github
+csc
+organizing-a-project
+repository-name
+practices
+directory-structure
+logic
+articles-on-data-science-project-git-repo-organization
+code-of-conduct
