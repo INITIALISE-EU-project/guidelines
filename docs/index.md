@@ -1,7 +1,7 @@
 --- 
 title: "Initialise EU"
 subtitle: "Project guidelines"
-date: "2023-12-02"
+date: "2023-12-03"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [packages.bib]
